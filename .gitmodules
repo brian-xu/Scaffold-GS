@@ -4,3 +4,4 @@
 [submodule "submodules/diff-scaffold-rasterization"]
 	path = submodules/diff-scaffold-rasterization
 	url = https://github.com/brian-xu/diff-scaffold-rasterization.git
+	branch = master
